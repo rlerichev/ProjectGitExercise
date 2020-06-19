@@ -1,2 +1,0 @@
-# Today
-Course of Git!!!

@@ -1,1 +1,1 @@
-f(x::Number)=x^2
+f(z::Number)=z^2

@@ -22,7 +22,10 @@ docs/site/
 # committed for packages, but should be committed for applications that require a static
 # environment.
 Manifest.toml
-PersonalNotes.txt 
+
+# My selected files to ignore...
 .ipynb_checkpoints
+*.ipynb
+PersonalNotes.txt 
 PersonalNotes2.txt
 
